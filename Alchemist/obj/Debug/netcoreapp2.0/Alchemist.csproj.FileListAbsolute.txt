@@ -1,0 +1,11 @@
+c:\users\tiffany\source\repos\Alchemist\Alchemist\bin\Debug\netcoreapp2.0\Alchemist.deps.json
+c:\users\tiffany\source\repos\Alchemist\Alchemist\bin\Debug\netcoreapp2.0\Alchemist.runtimeconfig.json
+c:\users\tiffany\source\repos\Alchemist\Alchemist\bin\Debug\netcoreapp2.0\Alchemist.runtimeconfig.dev.json
+c:\users\tiffany\source\repos\Alchemist\Alchemist\bin\Debug\netcoreapp2.0\Alchemist.dll
+c:\users\tiffany\source\repos\Alchemist\Alchemist\bin\Debug\netcoreapp2.0\Alchemist.pdb
+c:\users\tiffany\source\repos\Alchemist\Alchemist\obj\Debug\netcoreapp2.0\Alchemist.csprojAssemblyReference.cache
+c:\users\tiffany\source\repos\Alchemist\Alchemist\obj\Debug\netcoreapp2.0\Alchemist.csproj.CoreCompileInputs.cache
+c:\users\tiffany\source\repos\Alchemist\Alchemist\obj\Debug\netcoreapp2.0\Alchemist.AssemblyInfoInputs.cache
+c:\users\tiffany\source\repos\Alchemist\Alchemist\obj\Debug\netcoreapp2.0\Alchemist.AssemblyInfo.cs
+c:\users\tiffany\source\repos\Alchemist\Alchemist\obj\Debug\netcoreapp2.0\Alchemist.dll
+c:\users\tiffany\source\repos\Alchemist\Alchemist\obj\Debug\netcoreapp2.0\Alchemist.pdb
