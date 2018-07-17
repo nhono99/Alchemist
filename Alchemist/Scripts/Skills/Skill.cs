@@ -5,6 +5,7 @@ using Alchemist.Scripts.Elements;
 
 namespace Alchemist.Scripts.Skills
 {
+    //battle system must have battle phases, 1=buff/debuff, 2=combat, 3=buff/debuff
     public enum SkillType { Active, Passive }
     //Ally and Enemy can be more than one
     //for multiple row turn based include front, back row, column and adjacent targeting.

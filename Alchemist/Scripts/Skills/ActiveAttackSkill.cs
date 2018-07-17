@@ -18,6 +18,7 @@ namespace Alchemist.Scripts.Skills
           
         }
 
+        //not useful here
         public ActiveAttackSkill Clone()
         {
             return new ActiveAttackSkill(Name, Description, ElementType, Damage, TargetingType, NumberOfTarget);
