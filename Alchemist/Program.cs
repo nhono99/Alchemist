@@ -13,6 +13,7 @@ namespace Alchemist
             ActiveAttackSkill skill2 = skill1.Clone();
             ISkill skill3 = SkillFactory.CreateSkill(skill1, skill2);
             IAttackSkill skill3_attack = (IAttackSkill)skill3;
+            
             skill1.hp += 1;
             skill2.hp -= 1;
             Console.WriteLine(skill1.hp);
